@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+	<meta charse="UTF-8">
+	<head>
+		<h1> Log In page<h1>
+	</head>
+	<body> 
+		<p> This is the page that ahould appear when clicking on the link below</p>
+		<a href ="http://cascade-pv01:8080/login.act" > Cascade Log-in page</a>
+		<img src="login.png" alt="image of  login page">
+		<p>follow instructions on picture to login</p>
+			<h2> Cascade Main Page</h2>
+			<img src="">
